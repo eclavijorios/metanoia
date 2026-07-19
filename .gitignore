@@ -1,0 +1,15 @@
+target/
+.idea/
+*.iml
+node_modules/
+dist/
+.env
+.env.local
+.od/
+.od-skills/
+pgdata/
+backend/.vertx/
+*.class
+*.jar
+*.war
+.DS_Store
